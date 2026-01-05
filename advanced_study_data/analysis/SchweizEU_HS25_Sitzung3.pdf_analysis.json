@@ -1,0 +1,53 @@
+{
+  "subject": "Die Europäische Union als Rechtsgemeinschaft: Rechtsgrundlagen, Durchsetzung und aktuelle Rechtstaatlichkeitskrise",
+  "complexity": "Advanced",
+  "key_concepts": [
+    "Gemeinschaftsmethode vs. intergouvernementale Methode",
+    "Konstitutionalisierung des EU-Rechts (Eigenständigkeit, Anwendungsvorrang)",
+    "Kompetenzen und Verfahren des EuGH (Vorabentscheidung, Vertragsverletzung)",
+    "Durchsetzung und Umsetzungsdefizite des EU-Rechts (PCP-Ansatz nach Börzel)",
+    "Rechtstaatlichkeitskrise und die Rolle des EuGH (ASJP-Urteil, Grundsatz der richterlichen Unabhängigkeit)",
+    "Supranationale Nachsicht (Kelemen & Pavone)",
+    "Demokratiedefizit der EU und Legitimationsfragen",
+    "Ultra-vires-Prüfung und das Spannungsverhältnis zwischen EuGH und nationalen Verfassungsgerichten",
+    "Sekundär- vs. Primärrecht",
+    "Gewaltenteilung und institutionelles Gefüge der EU"
+  ],
+  "exam_relevance": "High",
+  "reason": "Das Dokument behandelt zentrale, prüfungsrelevante Säulen des Europarechts und der EU-Integration: die rechtliche Verfasstheit der EU, ihre Durchsetzungsmechanismen und die hochaktuellen Herausforderungen durch die Rechtstaatlichkeitskrise. Es verbindet dogmatische Rechtsgrundlagen (Primärrecht, EuGH-Kompetenzen) mit politikwissenschaftlichen Analysen (Durchsetzung, Politisierung) und aktueller Rechtsprechung (ASJP, Kommission vs. Polen). Diese Verknüpfung von Theorie, Rechtsdogmatik und aktueller Praxis ist typisch für anspruchsvolle Prüfungen.",
+  "likely_exam_questions": [
+    "Vergleichen Sie die 'Gemeinschaftsmethode' mit der 'intergouvernementalen Methode' der Entscheidungsfindung in der EU.",
+    "Erläutern Sie den Prozess der 'Konstitutionalisierung' des EU-Rechts anhand der Schlüsselurteile des EuGH und diskutieren Sie die Grenzen des Anwendungsvorrangs aus Sicht nationaler Verfassungsgerichte.",
+    "Analysieren Sie die Ursachen für Umsetzungsdefizite von EU-Recht in den Mitgliedstaaten. Gehen Sie dabei auf den PCP-Ansatz (Power, Capacity, Politicization) ein.",
+    "Welche Rolle spielt der EuGH in der EU-Rechtstaatlichkeitskrise? Erläutern Sie anhand des ASJP-Urteils (C-64/16) und seiner Folgen.",
+    "Diskutieren Sie die Hypothese der 'supranationalen Nachsicht' (Kelemen & Pavone). Welche Implikationen hat sie für die Durchsetzung des EU-Rechts?",
+    "Erklären Sie das Vorabentscheidungsverfahren nach Art. 267 AEUV und seine Bedeutung für die Einheitlichkeit des EU-Rechts."
+  ],
+  "connections": [
+    "Politisches System der EU (aus Sitzung 2)",
+    "Geschichte der europäischen Integration (Sitzung 1)",
+    "Differentierte Integration (Sitzung 4)",
+    "Integrationstheorien (Sitzung 5)",
+    "Schweiz-EU-Verhältnis (insb. Rechtsbeziehungen ohne Mitgliedschaft)",
+    "Völkerrecht vs. Europarecht",
+    "Föderalismus (EU als 'rechtliche Quasi-Föderation')",
+    "Demokratietheorie (demokratisches Defizit)"
+  ],
+  "difficulty_spikes": [
+    "Die subtile Differenzierung zwischen 'Eigenständigkeit' (Van Gend en Loos) und 'Anwendungsvorrang' (Costa/ENEL) sowie deren Abgrenzung zum Völkerrecht.",
+    "Das komplexe Spannungsverhältnis zwischen EuGH und nationalen Verfassungsgerichten (Ultra-vires-Vorbehalt des BVerfG vs. Anwendungsvorrang des EuGH).",
+    "Die Anwendung und Implikationen der abstrakten Rechtsgrundsätze aus Art. 19 EUV (ASJP-Urteil) auf konkrete nationale Justizreformen (Fall Polen).",
+    "Der PCP-Ansatz (Börzel) als analytisches Rahmenwerk zur Erklärung von Umsetzungsdefiziten – die Interaktion von Macht, Kapazität und Politisierung."
+  ],
+  "prerequisites": [
+    "Grundkenntnisse der EU-Institutionen (Kommission, Rat, Parlament, EuGH)",
+    "Grundverständnis der wichtigsten EU-Verträge (EUV, AEUV)",
+    "Basiswissen über das Verhältnis von nationalem und internationalem Recht",
+    "Grundbegriffe der Politikwissenschaft (Supranationalität, Intergouvernementalismus, Legitimation)"
+  ],
+  "summary": "Das Dokument analysiert die EU als Rechtsgemeinschaft. Es erklärt zunächst die Entscheidungsfindung (Gemeinschafts- vs. intergouvernementale Methode) und die Grundlagen des EU-Rechts, insbesondere dessen Konstitutionalisierung durch den EuGH (Eigenständigkeit, Vorrang). Ein Schwerpunkt liegt auf der Durchsetzung und den Ursachen von Umsetzungsdefiziten (PCP-Ansatz). Abschließend wird die aktuelle Rechtstaatlichkeitskrise behandelt, in der der EuGH mit dem ASJP-Urteil neue Grundsätze (richterliche Unabhängigkeit, effektiver Rechtsschutz) etabliert, um systemische Bedrohungen der Rechtsstaatlichkeit zu bekämpfen.",
+  "study_priority": 9,
+  "document_id": "1fd40017",
+  "analyzed_at": "2025-12-29T13:41:10.499603",
+  "content_preview": "DOCUMENT STRUCTURE DETECTED:\nPage 5: Entscheidungsfindungsprozesse unterscheiden sich in drei Aspekten:\nPage 14: Anwendungsvorrang, behält sich allerdings Möglichkeit der ultra -vires -Prüfung  vor:\nPage 18: 13.10.2025 18•Hypothese der \"supranationalen Nachsicht\"  von Kelemen & Pavone  (2022):\nPage 24: D GESS 24\nPage 27: D GESS 27EuGH leitet in C -64/16 zwei neue Rechtsgrundsätze aus Art. 19 EUV ab:\nPage 33: IFW D 45.2\n\nSitzung 3: Die Europäische Union \nals Rechtsgemeinschaft\nSeminar «Die Schwei..."
+}

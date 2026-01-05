@@ -1,0 +1,31 @@
+{
+  "analysis": {
+    "main_subject": "Budgetary Cohesion in Public Administration",
+    "key_concepts": [
+      "Budgetary Cohesion Definition",
+      "Vertical Cohesion (Alignment with higher-level policies)",
+      "Horizontal Cohesion (Coordination across departments)",
+      "Temporal Cohesion (Consistency over time)",
+      "Fiscal Discipline and Sustainability",
+      "Performance-Based Budgeting Linkages",
+      "Political vs. Administrative Dimensions",
+      "Wallace's Framework/Model"
+    ],
+    "difficulty_level": "Intermediate",
+    "exam_relevance": {
+      "level": "High",
+      "why": "The document covers a core public administration/finance topic that bridges theory (cohesion frameworks) and practice (budget implementation). It is highly likely to appear in exams focusing on public policy, fiscal management, or administrative reform, as it tests understanding of integration, coordination, and strategic alignment in governance."
+    },
+    "potential_exam_questions": [
+      "Define budgetary cohesion and explain its three main dimensions according to Wallace.",
+      "Compare and contrast vertical and horizontal cohesion in the budget process. Provide an example of a failure in each.",
+      "How does the concept of temporal cohesion conflict with short-term political budget cycles?",
+      "Discuss the relationship between budgetary cohesion and performance-based budgeting.",
+      "Analyze a case study (to be provided) using Wallace's framework to identify cohesion strengths and weaknesses."
+    ],
+    "study_priority": 8,
+    "summary": "The document presents Wallace's framework for understanding budgetary cohesion, which is the degree of alignment and consistency within a government's budget system. It breaks cohesion down into three key dimensions: vertical (hierarchical alignment), horizontal (cross-sectoral coordination), and temporal (multi-year consistency). Mastering this concept is crucial for analyzing the effectiveness and sustainability of public financial management."
+  },
+  "filename": "Wallace budget cohesion.pdf",
+  "analyzed_at": "2025-12-29T16:17:03.450016"
+}

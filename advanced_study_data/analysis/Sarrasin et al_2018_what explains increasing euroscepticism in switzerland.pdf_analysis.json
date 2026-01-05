@@ -1,0 +1,56 @@
+{
+  "subject": "Longitudinal analysis of Euroscepticism in Switzerland: Individual-level determinants of opposition to EU membership",
+  "complexity": "Advanced",
+  "key_concepts": [
+    "Euroscepticism",
+    "Longitudinal panel analysis",
+    "Winners vs. losers of globalization theory",
+    "Political ideology and EU attitudes (horseshoe model)",
+    "Swiss-EU bilateral agreements vs. full membership",
+    "Economic utilitarianism vs. political/cultural explanations",
+    "Swiss Household Panel (SHP) methodology",
+    "Fixed-effects regression models",
+    "CAMSIS (Cambridge Social Interaction and Stratification Scale)",
+    "Swiss political landscape (SVP, FDP, linguistic regional divides)"
+  ],
+  "exam_relevance": "High",
+  "reason": "This document presents sophisticated longitudinal methodology (panel data analysis 1999-2014), tests competing theoretical frameworks (economic vs. political/cultural explanations), examines within-individual change (fixed-effects models), and focuses on a critical case study (Switzerland's unique EU relationship). It demonstrates advanced social science research design suitable for graduate-level exams in political sociology, European studies, or public opinion research.",
+  "likely_exam_questions": [
+    "Compare and contrast economic utilitarian vs. political/cultural explanations for Euroscepticism using the Swiss case",
+    "Explain how longitudinal panel data with fixed-effects models advances our understanding of attitude change beyond cross-sectional studies",
+    "Analyze why Switzerland represents a 'critical case' for studying Euroscepticism despite (or because of) its non-EU membership",
+    "Discuss the 'winners vs. losers of globalization' framework and its application to EU support",
+    "Evaluate the methodological strengths and limitations of using the Swiss Household Panel for studying political attitudes",
+    "Explain the 'horseshoe model' of political ideology and EU attitudes, and why Switzerland deviates from this pattern",
+    "How do the findings challenge or support Gabel's (1998) theory of comparative advantage in EU support?"
+  ],
+  "connections": [
+    "Comparative European politics (Brexit, Norwegian EU relations)",
+    "Public opinion research methodology",
+    "Globalization and inequality literature",
+    "Populist right-wing parties in Europe",
+    "Swiss direct democracy and foreign policy",
+    "European integration theories",
+    "Political socialization and attitude change",
+    "Survey research and panel data analysis"
+  ],
+  "difficulty_spikes": [
+    "Understanding fixed-effects vs. random-effects models in panel analysis",
+    "Interpreting odds ratios and statistical significance in logistic regression output",
+    "Grasping the CAMSIS scale as a measure of occupational prestige",
+    "Distinguishing between within-individual vs. between-individual effects",
+    "Understanding the imputation methods for missing survey years (2010, 2012, 2013)"
+  ],
+  "prerequisites": [
+    "Basic understanding of Swiss political system and EU institutions",
+    "Familiarity with regression analysis and statistical significance",
+    "Knowledge of Euroscepticism literature in comparative politics",
+    "Understanding of panel data methodology",
+    "Familiarity with political ideology scales (left-right spectrum)"
+  ],
+  "summary": "This longitudinal study analyzes increasing Swiss opposition to EU membership using Swiss Household Panel data (1999-2014). It tests economic (skills, financial situation) and political/cultural (right-wing ideology, political efficacy) explanations, finding that within-individual shifts toward right-wing ideology most strongly predict increased Euroscepticism. The research employs fixed-effects models to distinguish between-individual differences from within-individual change, advancing beyond cross-sectional analyses of EU attitudes.",
+  "study_priority": 9,
+  "document_id": "86562da4",
+  "analyzed_at": "2025-12-29T13:38:53.870501",
+  "content_preview": "DOCUMENT STRUCTURE DETECTED:\nPage 8: OR (SE) OR (SE)\nPage 8: CAMSIS 0.97*** (0.00)\nPage 9: OR (SE) OR (SE)\nPage 9: CAMSIS 0.99 0.01\nPage 10: Ambühl, M., & Zürcher, S. (2015). Immigration and Swiss-EU free movement of persons:\n\n203 © The Author(s) 2018 \nR. Tillmann et al. (eds.), Social Dynamics in Swiss Society, Life Course Research and Social Policies 9, https://doi.org/10.1007/978-3-319-89557-4_14Chapter 14\nWhat Explains Increasing Euroscepticism \nin Switzerland? A Longitudinal Analysis\nOriane..."
+}

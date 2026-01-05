@@ -1,0 +1,1 @@
+ streamlit run /Users/gianantoniobrazzola/Documents/GitHub/DeepSeekApp/study_assistant_web.py
