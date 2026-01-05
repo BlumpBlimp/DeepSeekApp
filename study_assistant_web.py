@@ -5,7 +5,10 @@ STUDY ASSISTANT WEB INTERFACE - Beautiful GUI
 import streamlit as st
 import os
 import json
-import PyPDF2
+try:
+    import PyPDF2
+except ImportError:
+    import pypdf as PyPDF2
 import docx
 import shutil
 from datetime import datetime
@@ -380,7 +383,7 @@ def main():
             st.markdown("### Upload Single File")
             uploaded_file = st.file_uploader(
                 "Choose a file",
-                type=['pdf', 'docx', 'txt', 'md', 'rtf'],
+                type=['pdf', 'docx', '.txt', '.md', '.rtf'],
                 label_visibility="collapsed"
             )
 
