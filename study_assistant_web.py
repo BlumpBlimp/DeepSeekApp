@@ -55,7 +55,11 @@ class WebStudyAssistant:
 
         self.client = OpenAI(
             api_key=api_key,
-            base_url="https://api.deepseek.com"
+            base_url="https://api.deepseek.com/v1",
+            default_headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json"
+            }
         )
 
         self.base_dir = "advanced_study_data"
