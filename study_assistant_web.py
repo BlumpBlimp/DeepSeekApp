@@ -5,6 +5,7 @@ STUDY ASSISTANT WEB INTERFACE - Beautiful GUI
 import streamlit as st
 import os
 import json
+
 try:
     import PyPDF2
 except ImportError:
@@ -37,9 +38,19 @@ if 'config' not in st.session_state:
 
 class WebStudyAssistant:
     def __init__(self):
-        api_key = os.getenv("DEEPSEEK_API_KEY")
+        # Check Streamlit secrets first, then environment variable
+        if hasattr(st, 'secrets') and 'DEEPSEEK_API_KEY' in st.secrets:
+            api_key = st.secrets['DEEPSEEK_API_KEY']
+        else:
+            api_key = os.getenv("DEEPSEEK_API_KEY")
+
         if not api_key:
-            st.error("❌ DEEPSEEK_API_KEY not found in .env file")
+            st.error("❌ DEEPSEEK_API_KEY not found")
+            st.info("""
+            **How to fix:**
+            1. **Streamlit Cloud:** Go to App Settings → Secrets → Add DEEPSEEK_API_KEY
+            2. **Local:** Create `.env` file with DEEPSEEK_API_KEY=your_key
+            """)
             st.stop()
 
         self.client = OpenAI(
